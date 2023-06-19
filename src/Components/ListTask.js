@@ -7,8 +7,7 @@ const ListTask = ({ Data }) => {
       style={{
         display: "flex",
         flexDirection: "column",
-        justifyContent: "space-around",
-        marginTop: "50px",
+        marginTop: "30px",
       }}
     >
       {Data.map((el) => {

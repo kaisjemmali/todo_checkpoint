@@ -10,12 +10,12 @@ const Data = [
   {
     id: uuidv4(),
     description: "This is the second task",
-    isDone: true,
+    isDone: false,
   },
 
   {
     id: uuidv4(),
-    description: "This is the thirs task",
+    description: "This is the third task",
     isDone: false,
   },
 ];
